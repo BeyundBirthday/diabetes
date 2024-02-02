@@ -1,1 +1,4 @@
-#
+# this is the 2nd project
+
+
+this is he diabetes classification problem in kaggle
